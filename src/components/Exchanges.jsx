@@ -1,19 +1,19 @@
-// // import React from 'react'
+import React from 'react'
 
-// // const mystyle = {
-// //   display: "flex",
-// //   height : '90vh',
-// //   aligncontent: 'center',
-// //   margin: 'auto',
-// // };
+const mystyle = {
+  display: "flex",
+  height : '90vh',
+  aligncontent: 'center',
+  margin: 'auto',
+};
 
-// //  const Exchanges = () => {
-// //   return (
-// //     <div style={mystyle}><h1>Coming Soon...</h1></div>
-// //   )
-// // }
+ const Exchanges = () => {
+  return (
+    <div style={mystyle}><h1>Coming Soon...</h1></div>
+  )
+}
 
-// // export default Exchanges;
+export default Exchanges;
 
 
 // import React from 'react';
